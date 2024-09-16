@@ -53,8 +53,8 @@ Split and merge HSV Image
 ```
 ## Output:
 
+![Screenshot 2024-09-16 152149](https://github.com/user-attachments/assets/ab3dec3b-44e9-4377-b2b2-1458196bce08)
 
-![Screenshot 2024-02-22 092247](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/0eb621aa-2159-478d-a410-602ddb5e8251)
 
 ### ii)Write the image
 ```py
@@ -91,7 +91,7 @@ Split and merge HSV Image
     cv2.destroyAllWindows()
 ```
 ## Output:
-![access row and column](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/701c00d5-76d0-4a10-a74f-0ba58420a05a)
+![Screenshot 2024-09-16 153051](https://github.com/user-attachments/assets/23ba8654-94c3-4132-832e-7be79ecd6a6a)
 
 
 
@@ -107,7 +107,7 @@ Split and merge HSV Image
    cv2.destroyAllWindows()
 ```
 ## Output:
-![cut and paste](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/2d007fda-b32b-4d5f-a042-e1f685651395)
+![image](https://github.com/user-attachments/assets/562a016e-f778-416b-a774-a8c0269dfaa8)
 
 
 ### vi) BGR and RGB to HSV and GRAY
@@ -128,12 +128,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
-![Screenshot 2024-02-22 093231](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/4bd1f54d-36e3-4278-afc6-1f60481e10e0)
-![Screenshot 2024-02-22 093107](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/0f5e1f37-6217-4248-bdc1-810937b1a6a3)
-![Screenshot 2024-02-22 093131](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/fd2452ac-baed-4ed9-8be3-c9045450ee59)
-![Screenshot 2024-02-22 093145](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/a7e6d7e5-5e1f-4ec2-b794-01536c0e1a22)
+![image](https://github.com/user-attachments/assets/8bdd720c-2257-4d19-8dd3-6a8685a69156)
 
-![Screenshot 2024-02-22 093248](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/a58b623e-bf2d-46be-be6d-1c0d8e0911a0)
 
 ### vii) HSV to RGB and BGR
 ```py
@@ -150,9 +146,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
-![Screenshot 2024-02-22 093423](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/cfe68694-7e42-42f6-80f4-74527dcd997c)
-![Screenshot 2024-02-22 093432](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/b113c1bd-c1ae-4206-b6c5-3bcf106255f5)
-![Screenshot 2024-02-22 093440](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/94cf556b-5ce2-4c7e-94e3-7977fc944ad0)
+![image](https://github.com/user-attachments/assets/5c5724bc-ce84-41c5-9e3f-d04e28b376c1)
+
 
 
 
@@ -171,10 +166,9 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
-![Screenshot 2024-02-22 093752](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/d54056a6-12fa-4d52-b7fe-9880b7062b73)
-![Screenshot 2024-02-22 093759](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/51f1c2dd-8728-4787-a73e-b179843ef075)
-![Screenshot 2024-02-22 093811](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/a329b99d-058c-4588-b48d-a904500c7937)
 
+
+![image](https://github.com/user-attachments/assets/de4aa789-d519-495f-aecb-2ce181a26768)
 
 
 
@@ -196,12 +190,9 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
-![Screenshot 2024-02-22 094211](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/e1fac2e4-dc15-45f3-98b5-81c65311f33e)
-![Screenshot 2024-02-22 094218](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/77a67c0d-8c8e-412a-b7be-5adfb8d8fc17)
-![Screenshot 2024-02-22 094225](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/551cf5f6-4ea8-46aa-8e5c-5d60898a73e9)
 
-![Screenshot 2024-02-22 094232](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/0195593d-990e-4ec5-8a59-16d3973df9e0)
 
+![image](https://github.com/user-attachments/assets/c91482a2-70a7-401f-a4ed-ff35a0e2e0ec)
 
 
 
@@ -222,10 +213,8 @@ cv2.waitKey(0)
 cv2.destroyAllWindows()
 ```
 ## Output:
-![Screenshot 2024-02-22 094042](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/06d3fe79-5611-494f-be36-7cf48571e65f)
-![Screenshot 2024-02-22 094049](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/f2465292-5dc6-4cef-bd2e-f3afa674dddc)
-![Screenshot 2024-02-22 094056](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/7d5f6dd9-d3a9-4864-9033-973284ce34ae)
-![Screenshot 2024-02-22 094104](https://github.com/AdhithyaMR/COLOR_CONVERSIONS_OF-IMAGE/assets/118834761/608846e6-397f-4ee4-aaa8-16f83f53c916)
+![image](https://github.com/user-attachments/assets/f686fd34-9363-44f4-961b-abf75fb93637)
+
 
 
 
